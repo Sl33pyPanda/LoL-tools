@@ -1,0 +1,12 @@
+
+bot-sinhnhat/__pycache__/
+bot-sinhnhat/build/
+bot-sinhnhat/dist/
+bot-sinhnhat/code/ngrok.exe
+bot-sinhnhat/Scrapped_FB.csv
+bot-sinhnhat/test.spec
+.csv
+.data
+.spec
+.exe
+
