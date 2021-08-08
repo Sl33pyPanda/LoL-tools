@@ -34,8 +34,7 @@ def codeEnter(code):
 
 if __name__ == '__main__':
     try:
-        #token = getToken()
-        token = "ea0445338023d1c320590226751b208fd8490ef843a4f2ae9fec3d6a24d5a8af"
+        token = getToken()
         print("Token : ", token)
 
         #https://github.com/Sl33pyPanda/MiPublic/blob/master/lol-botsinhnhat/code/code
